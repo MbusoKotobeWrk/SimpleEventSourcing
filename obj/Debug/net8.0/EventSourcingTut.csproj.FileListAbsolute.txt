@@ -1,0 +1,14 @@
+C:\Users\Mbuso\source\EventSourcingTut\bin\Debug\net8.0\EventSourcingTut.exe
+C:\Users\Mbuso\source\EventSourcingTut\bin\Debug\net8.0\EventSourcingTut.deps.json
+C:\Users\Mbuso\source\EventSourcingTut\bin\Debug\net8.0\EventSourcingTut.runtimeconfig.json
+C:\Users\Mbuso\source\EventSourcingTut\bin\Debug\net8.0\EventSourcingTut.dll
+C:\Users\Mbuso\source\EventSourcingTut\bin\Debug\net8.0\EventSourcingTut.pdb
+C:\Users\Mbuso\source\EventSourcingTut\obj\Debug\net8.0\EventSourcingTut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mbuso\source\EventSourcingTut\obj\Debug\net8.0\EventSourcingTut.AssemblyInfoInputs.cache
+C:\Users\Mbuso\source\EventSourcingTut\obj\Debug\net8.0\EventSourcingTut.AssemblyInfo.cs
+C:\Users\Mbuso\source\EventSourcingTut\obj\Debug\net8.0\EventSourcingTut.csproj.CoreCompileInputs.cache
+C:\Users\Mbuso\source\EventSourcingTut\obj\Debug\net8.0\EventSourcingTut.dll
+C:\Users\Mbuso\source\EventSourcingTut\obj\Debug\net8.0\refint\EventSourcingTut.dll
+C:\Users\Mbuso\source\EventSourcingTut\obj\Debug\net8.0\EventSourcingTut.pdb
+C:\Users\Mbuso\source\EventSourcingTut\obj\Debug\net8.0\EventSourcingTut.genruntimeconfig.cache
+C:\Users\Mbuso\source\EventSourcingTut\obj\Debug\net8.0\ref\EventSourcingTut.dll
